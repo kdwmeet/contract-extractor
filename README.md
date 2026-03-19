@@ -63,3 +63,5 @@ uv run streamlit run main.py
 * **계층 구조 분리**: parties 배열과 obligations 배열이 각각의 스키마 구조에 맞게 논리적으로 분리되어 누락 없이 추출되었는지 점검합니다.
 
 ## 7. 실행 화면
+<img width="1380" height="716" alt="스크린샷 2026-03-19 102900" src="https://github.com/user-attachments/assets/8b2fa5c6-90ba-44b0-affa-e7bf4f5eb891" />
+
